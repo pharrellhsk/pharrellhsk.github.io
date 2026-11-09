@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T03:47:38.417Z",
+  "generatedAt": "2026-11-09T03:47:57.563Z",
   "baseUrl": "https://pharrellhsk.github.io/image/",
   "characters": {
     "安可可": {
@@ -104,10 +104,12 @@
     "苏小桃": {
       "portraits": [
         "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E7%9D%A1%E8%A1%A3.png",
         "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E6%A0%A1%E6%9C%8D.png"
       ],
       "portraitLabels": [
         "常服",
+        "睡衣",
         "校服"
       ],
       "avatar": "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E5%A4%B4%E5%83%8F/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E5%A4%B4%E5%83%8F.png"
