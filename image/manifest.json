@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T02:59:02.160Z",
+  "generatedAt": "2026-11-09T03:47:38.417Z",
   "baseUrl": "https://pharrellhsk.github.io/image/",
   "characters": {
     "安可可": {
@@ -43,10 +43,12 @@
     "江甜甜": {
       "portraits": [
         "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E7%AB%8B%E7%BB%98/%E6%B1%9F%E7%94%9C%E7%94%9C-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E7%AB%8B%E7%BB%98/%E6%B1%9F%E7%94%9C%E7%94%9C-%E7%BA%B1%E8%A1%A3.png",
         "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E7%AB%8B%E7%BB%98/%E6%B1%9F%E7%94%9C%E7%94%9C-%E6%A0%A1%E6%9C%8D.png"
       ],
       "portraitLabels": [
         "常服",
+        "纱衣",
         "校服"
       ],
       "avatar": "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E5%A4%B4%E5%83%8F/%E6%B1%9F%E7%94%9C%E7%94%9C-%E5%A4%B4%E5%83%8F.png"
