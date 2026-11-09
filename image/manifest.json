@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-09T02:59:02.160Z",
+  "baseUrl": "https://pharrellhsk.github.io/image/",
+  "characters": {
+    "安可可": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E5%AE%89%E5%8F%AF%E5%8F%AF/%E7%AB%8B%E7%BB%98/%E5%AE%89%E5%8F%AF%E5%8F%AF-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E5%AE%89%E5%8F%AF%E5%8F%AF/%E7%AB%8B%E7%BB%98/%E5%AE%89%E5%8F%AF%E5%8F%AF-%E6%A0%A1%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E5%AE%89%E5%8F%AF%E5%8F%AF/%E7%AB%8B%E7%BB%98/%E5%AE%89%E5%8F%AF%E5%8F%AF-%E6%B3%B3%E8%A3%85%E6%B4%BE%E5%AF%B9.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "校服",
+        "泳装派对"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E5%AE%89%E5%8F%AF%E5%8F%AF/%E5%A4%B4%E5%83%8F/%E5%AE%89%E5%8F%AF%E5%8F%AF-%E5%A4%B4%E5%83%8F.png"
+    },
+    "白千翎": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E7%99%BD%E5%8D%83%E7%BF%8E/%E7%AB%8B%E7%BB%98/%E7%99%BD%E5%8D%83%E7%BF%8E-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E7%99%BD%E5%8D%83%E7%BF%8E/%E7%AB%8B%E7%BB%98/%E7%99%BD%E5%8D%83%E7%BF%8E-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png",
+        "https://pharrellhsk.github.io/image/%E7%99%BD%E5%8D%83%E7%BF%8E/%E7%AB%8B%E7%BB%98/%E7%99%BD%E5%8D%83%E7%BF%8E-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "魔法少女",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E7%99%BD%E5%8D%83%E7%BF%8E/%E5%A4%B4%E5%83%8F/%E7%99%BD%E5%8D%83%E7%BF%8E-%E5%A4%B4%E5%83%8F.png"
+    },
+    "程星遥": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E7%A8%8B%E6%98%9F%E9%81%A5/%E7%AB%8B%E7%BB%98/%E7%A8%8B%E6%98%9F%E9%81%A5-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E7%A8%8B%E6%98%9F%E9%81%A5/%E7%AB%8B%E7%BB%98/%E7%A8%8B%E6%98%9F%E9%81%A5-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E7%A8%8B%E6%98%9F%E9%81%A5/%E5%A4%B4%E5%83%8F/%E7%A8%8B%E6%98%9F%E9%81%A5-%E5%A4%B4%E5%83%8F.png"
+    },
+    "江甜甜": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E7%AB%8B%E7%BB%98/%E6%B1%9F%E7%94%9C%E7%94%9C-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E7%AB%8B%E7%BB%98/%E6%B1%9F%E7%94%9C%E7%94%9C-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E6%B1%9F%E7%94%9C%E7%94%9C/%E5%A4%B4%E5%83%8F/%E6%B1%9F%E7%94%9C%E7%94%9C-%E5%A4%B4%E5%83%8F.png"
+    },
+    "林筱筱": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E6%9E%97%E7%AD%B1%E7%AD%B1/%E7%AB%8B%E7%BB%98/%E6%9E%97%E7%AD%B1%E7%AD%B1-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E6%9E%97%E7%AD%B1%E7%AD%B1/%E7%AB%8B%E7%BB%98/%E6%9E%97%E7%AD%B1%E7%AD%B1-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png",
+        "https://pharrellhsk.github.io/image/%E6%9E%97%E7%AD%B1%E7%AD%B1/%E7%AB%8B%E7%BB%98/%E6%9E%97%E7%AD%B1%E7%AD%B1-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "魔法少女",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E6%9E%97%E7%AD%B1%E7%AD%B1/%E5%A4%B4%E5%83%8F/%E6%9E%97%E7%AD%B1%E7%AD%B1-%E5%A4%B4%E5%83%8F.png"
+    },
+    "宁小暖": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E5%AE%81%E5%B0%8F%E6%9A%96/%E7%AB%8B%E7%BB%98/%E5%AE%81%E5%B0%8F%E6%9A%96-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E5%AE%81%E5%B0%8F%E6%9A%96/%E7%AB%8B%E7%BB%98/%E5%AE%81%E5%B0%8F%E6%9A%96-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E5%AE%81%E5%B0%8F%E6%9A%96/%E5%A4%B4%E5%83%8F/%E5%AE%81%E5%B0%8F%E6%9A%96-%E5%A4%B4%E5%83%8F.png"
+    },
+    "沈清秋": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E6%B2%88%E6%B8%85%E7%A7%8B/%E7%AB%8B%E7%BB%98/%E6%B2%88%E6%B8%85%E7%A7%8B-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E6%B2%88%E6%B8%85%E7%A7%8B/%E7%AB%8B%E7%BB%98/%E6%B2%88%E6%B8%85%E7%A7%8B-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png",
+        "https://pharrellhsk.github.io/image/%E6%B2%88%E6%B8%85%E7%A7%8B/%E7%AB%8B%E7%BB%98/%E6%B2%88%E6%B8%85%E7%A7%8B-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "魔法少女",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E6%B2%88%E6%B8%85%E7%A7%8B/%E5%A4%B4%E5%83%8F/%E6%B2%88%E6%B8%85%E7%A7%8B-%E5%A4%B4%E5%83%8F.png"
+    },
+    "苏糯糯": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E8%8B%8F%E7%B3%AF%E7%B3%AF/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E7%B3%AF%E7%B3%AF-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E8%8B%8F%E7%B3%AF%E7%B3%AF/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E7%B3%AF%E7%B3%AF-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E8%8B%8F%E7%B3%AF%E7%B3%AF/%E5%A4%B4%E5%83%8F/%E8%8B%8F%E7%B3%AF%E7%B3%AF-%E5%A4%B4%E5%83%8F.png"
+    },
+    "苏小桃": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E7%AB%8B%E7%BB%98/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E8%8B%8F%E5%B0%8F%E6%A1%83/%E5%A4%B4%E5%83%8F/%E8%8B%8F%E5%B0%8F%E6%A1%83-%E5%A4%B4%E5%83%8F.png"
+    },
+    "叶琉璃": {
+      "portraits": [
+        "https://pharrellhsk.github.io/image/%E5%8F%B6%E7%90%89%E7%92%83/%E7%AB%8B%E7%BB%98/%E5%8F%B6%E7%90%89%E7%92%83-%E5%B8%B8%E6%9C%8D.png",
+        "https://pharrellhsk.github.io/image/%E5%8F%B6%E7%90%89%E7%92%83/%E7%AB%8B%E7%BB%98/%E5%8F%B6%E7%90%89%E7%92%83-%E6%B4%9B%E4%B8%BD%E5%A1%94.png",
+        "https://pharrellhsk.github.io/image/%E5%8F%B6%E7%90%89%E7%92%83/%E7%AB%8B%E7%BB%98/%E5%8F%B6%E7%90%89%E7%92%83-%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png",
+        "https://pharrellhsk.github.io/image/%E5%8F%B6%E7%90%89%E7%92%83/%E7%AB%8B%E7%BB%98/%E5%8F%B6%E7%90%89%E7%92%83-%E6%A0%A1%E6%9C%8D.png"
+      ],
+      "portraitLabels": [
+        "常服",
+        "洛丽塔",
+        "魔法少女",
+        "校服"
+      ],
+      "avatar": "https://pharrellhsk.github.io/image/%E5%8F%B6%E7%90%89%E7%92%83/%E5%A4%B4%E5%83%8F/%E5%8F%B6%E7%90%89%E7%92%83-%E5%A4%B4%E5%83%8F.png"
+    }
+  }
+}
